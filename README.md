@@ -1,3 +1,3 @@
 # README
 
-## Test
+## Python Tic Tac Toe
